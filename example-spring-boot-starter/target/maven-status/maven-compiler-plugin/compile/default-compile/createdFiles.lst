@@ -1,0 +1,3 @@
+com\yangyang\springboot\example\autoconfigure\ExampleAutoConfigure.class
+com\yangyang\springboot\example\autoconfigure\ExampleServiceProperties.class
+com\yangyang\springboot\example\autoconfigure\ExampleService.class
